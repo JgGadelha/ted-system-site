@@ -69,7 +69,7 @@ a {
   color: var(--cor-secundaria);
   text-decoration: none;
   transition: color 0.2s ease;
-  cursor: url(''), pointer;
+  cursor: url('/public/images/cursor.png'), pointer;
 }
 
 a:hover {
